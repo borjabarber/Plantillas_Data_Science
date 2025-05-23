@@ -2,12 +2,11 @@
 Bienvenido/a a este repositorio de plantillas reutilizables para proyectos de Ciencia de Datos. Aquí encontrarás una colección organizada de notebooks, scripts y estructuras base que cubren distintas etapas del ciclo de vida de un proyecto
 
 
-## 📚 Indice 
+## 📚 Índice 
 
 | Plantilla                         | Descripción                                                                                   | Tech Stack               |
 |----------------------------------|-----------------------------------------------------------------------------------------------|--------------------------|
-| [**OpenAi**]([https://github.com/borjabarber/Dungeon_Master](https://github.com/borjabarber/Plantillas_Data_Science/tree/main/openai)]) | Distintas plantillas para el uso de la API de openAi                              | Python  · OpenAI |
-       
+| [**OpenAi**](https://github.com/borjabarber/Plantillas_Data_Science/tree/main/OpenAi) | Distintas plantillas para el uso de la API de OpenAI                              | Python · OpenAI |
 
 ---
 
