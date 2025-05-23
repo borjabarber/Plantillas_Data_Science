@@ -6,7 +6,7 @@ Bienvenido/a a este repositorio de plantillas reutilizables para proyectos de Ci
 
 | Plantilla                         | Descripción                                                                                   | Tech Stack               |
 |----------------------------------|-----------------------------------------------------------------------------------------------|--------------------------|
-| [**OpenAi**]([https://github.com/borjabarber/Dungeon_Master](https://github.com/borjabarber/Plantillas_Data_Science/tree/main/openai) | Distintas plantillas para el uso de la API de openAi                              | Python  · OpenAI |
+| [**OpenAi**]([https://github.com/borjabarber/Dungeon_Master](https://github.com/borjabarber/Plantillas_Data_Science/tree/main/openai]) | Distintas plantillas para el uso de la API de openAi                              | Python  · OpenAI |
        
 
 ---
