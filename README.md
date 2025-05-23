@@ -24,5 +24,7 @@ Bienvenido/a a este repositorio de plantillas reutilizables para proyectos de Ci
 2. **Explora las carpetas** y selecciona la plantilla que se ajuste a tu proyecto.
 
 3. **Adapta el código** según tus necesidades específicas y los datos con los que estés trabajando.
+4. 
+5. **Configura las Variables de Entorno** (Se requiere un archivo `.env` para el uso de varias plantillas)
 
-4. **Contribuye**: Si mejoras alguna plantilla o creas una nueva, ¡no dudes en hacer un pull request!
+6. **Contribuye**: Si mejoras alguna plantilla o creas una nueva, ¡no dudes en hacer un pull request!
