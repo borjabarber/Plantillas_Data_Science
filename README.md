@@ -8,7 +8,7 @@ Bienvenido/a a este repositorio de plantillas reutilizables para proyectos de Ci
 |----------------------------------|-----------------------------------------------------------------------------------------------|--------------------------|
 | [**OpenAi**](https://github.com/borjabarber/Plantillas_Data_Science/tree/main/openai) | Distintas plantillas para el uso de la API de OpenAI                              | Python · OpenAI |
 | [**Machine Learning**](https://github.com/borjabarber/Plantillas_Data_Science/tree/main/Machine_learning) | Distintas plantillas para Machine Learning                              | Python · ML |
-| [**Computer Vision**](https://github.com/borjabarber/Plantillas_Data_Science/tree/main/Computer_Vision) | Distintas plantillas para Computer Computer_Vision                             | Python · CV2 · YOLO |
+| [**Computer Vision**](https://github.com/borjabarber/Plantillas_Data_Science/tree/main/Computer_Vision) | Distintas plantillas para Computer Vision                             | Python · CV2 · YOLO |
 
 ---
 
